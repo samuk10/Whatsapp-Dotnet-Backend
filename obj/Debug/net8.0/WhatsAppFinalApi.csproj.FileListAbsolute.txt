@@ -25,7 +25,6 @@
 /home/samuel/angular-proj/whatsapp/WhatsAppFinalApi/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.WhatsAppFinalApi.props
 /home/samuel/angular-proj/whatsapp/WhatsAppFinalApi/obj/Debug/net8.0/staticwebassets.pack.json
 /home/samuel/angular-proj/whatsapp/WhatsAppFinalApi/obj/Debug/net8.0/scopedcss/bundle/WhatsAppFinalApi.styles.css
-/home/samuel/angular-proj/whatsapp/WhatsAppFinalApi/obj/Debug/net8.0/WhatsAppFinalApi.csproj.CopyComplete
 /home/samuel/angular-proj/whatsapp/WhatsAppFinalApi/obj/Debug/net8.0/WhatsAppFinalApi.dll
 /home/samuel/angular-proj/whatsapp/WhatsAppFinalApi/obj/Debug/net8.0/refint/WhatsAppFinalApi.dll
 /home/samuel/angular-proj/whatsapp/WhatsAppFinalApi/obj/Debug/net8.0/WhatsAppFinalApi.pdb
@@ -39,3 +38,4 @@
 /home/samuel/angular-proj/whatsapp/WhatsAppFinalApi/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 /home/samuel/angular-proj/whatsapp/WhatsAppFinalApi/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
 /home/samuel/angular-proj/whatsapp/WhatsAppFinalApi/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/home/samuel/angular-proj/whatsapp/WhatsAppFinalApi/obj/Debug/net8.0/WhatsApp.D27ABCE1.Up2Date
